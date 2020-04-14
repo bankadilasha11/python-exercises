@@ -1,0 +1,3 @@
+#Create a program that prints the days of the week, with each day on a new line.
+
+print("monday\ntuesday\nwednesday\nthursday\nfriday\nsaturday\nsunday")
