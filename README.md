@@ -1,0 +1,3 @@
+# python-exercises
+python exercise for day to day practice and also helps you to improve your skills and programming...
+This Python essential exercise is to help Python beginners to learn necessary Python skills quickly. Practice Python Basic Concepts such as Loops, Control structure, List, Strings, input-output, and built-in functions.
