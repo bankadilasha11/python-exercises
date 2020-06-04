@@ -1,0 +1,7 @@
+def num(n):
+  no=1,5,8,3
+  return n in no
+  
+print(num(1))
+print(num(54))
+print(num(-5))
